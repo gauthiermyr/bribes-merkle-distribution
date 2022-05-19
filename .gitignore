@@ -1,0 +1,13 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+.vscode
+
+#Hardhat files
+cache
+artifacts
+merkle_fake.json
+package-lock.json
+yarn.lock
