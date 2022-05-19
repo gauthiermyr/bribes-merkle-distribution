@@ -21,6 +21,6 @@ npx hardhat run scripts/deploy.js
 # Deploy on mainnet
 
 ```shell
-hardhat run --network mainnet scripts/deploy.js
+npx hardhat run --network mainnet scripts/deploy.js
 ```
 
